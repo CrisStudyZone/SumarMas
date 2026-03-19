@@ -1,0 +1,5 @@
+<resources>
+    <string name="welcome">Bienvenido</string>
+    <string name="play">Jugar</string>
+    <string name="start_practice">Comenzar práctica</string>
+</resources>
